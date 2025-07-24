@@ -11,3 +11,5 @@ Just run the script.
 
 ```bash
 node index.js
+```
+author: Nabbo Noushad Darad
